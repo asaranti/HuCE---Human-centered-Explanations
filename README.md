@@ -1,6 +1,6 @@
 # HuCE---Human-centered-Explanations
 
-docs/figures/Interpretable-Relevance-Predicates.png
+![This is an image](docs/figures/Interpretable-Relevance-Predicates.png)
 
 ## Usage and examples:
 
