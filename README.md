@@ -4,10 +4,13 @@
 
 ## Usage and examples:
 
-To create all x-axis relations, run the file:
+To create the different relations, run the file:
 
 ```
+python concepts_kandinsky/concept_single_object.py
 python concepts_kandinsky/concept_x_axis_relations.py
+python concepts_kandinsky/concept_y_axis_relations.py
+python concepts_kandinsky/concept_alignment_relations.py
 ```
 
 ## Folders:

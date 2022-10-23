@@ -1,1 +1,1 @@
-graph_3; (3,); []; symmetry; contains(graph_3, object_3_3), is_a(object_3_3, circle), has_coordinates(object_3_3, 2.03075, 1.87339), has_color(object_3_3, 255, 255, 0), has_relevance(graph_3, 0.15000), 
+graph_3; (3,); []; symmetry; contains(graph_3, object_3_3), is_a(object_3_3, circle), has_coordinates(object_3_3, 2.02832, 1.88128), has_color(object_3_3, 255, 255, 0), has_relevance(graph_3, 0.15000), 
