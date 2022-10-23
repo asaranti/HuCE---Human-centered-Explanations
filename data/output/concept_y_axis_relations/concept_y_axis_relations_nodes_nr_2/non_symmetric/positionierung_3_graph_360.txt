@@ -1,0 +1,1 @@
+graph_360; (1, 2); []; non-symmetry; contains(graph_360, object_360_1), is_a(object_360_1, triangle), has_coordinates(object_360_1, 2.06522, 0.88201), has_color(object_360_1, 0, 0, 255), contains(graph_360, object_360_2), is_a(object_360_2, circle), has_coordinates(object_360_2, 0.84777, 2.00139), has_color(object_360_2, 255, 255, 0), has_relevance(graph_360, 0.21250), 

@@ -1,0 +1,1 @@
+graph_570; (0, 1); []; non-symmetry; contains(graph_570, object_570_0), is_a(object_570_0, triangle), has_coordinates(object_570_0, 1.00794, 1.02136), has_color(object_570_0, 0, 0, 255), contains(graph_570, object_570_1), is_a(object_570_1, triangle), has_coordinates(object_570_1, 1.93258, 1.00039), has_color(object_570_1, 0, 0, 255), has_relevance(graph_570, 0.12500), 
