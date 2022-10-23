@@ -43,5 +43,6 @@ python concepts_kandinsky/concept_alignment_relations.py
 
 ## Contact:
 
+- Bettina Finzel: [bettina.finzel@uni-bamberg.de](mailto:bettina.finzel@uni-bamberg.de)
 - Anna Saranti: [anna.saranti@boku.ac.at](mailto:anna.saranti@boku.ac.at)
 
