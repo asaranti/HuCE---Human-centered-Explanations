@@ -1,5 +1,7 @@
 # HuCE---Human-centered-Explanations
 
+docs/figures/Interpretable-Relevance-Predicates.png
+
 ## Usage and examples:
 
 To create all x-axis relations, run the file:
@@ -7,8 +9,6 @@ To create all x-axis relations, run the file:
 ```
 concepts_kandinsky/concept_x_axis_relations.py
 ```
-
-/docs/figures/Interpretable-Relevance-Predicates.png
 
 ## Folders:
 
