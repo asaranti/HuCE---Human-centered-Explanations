@@ -8,6 +8,8 @@ To create all x-axis relations, run the file:
 concepts_kandinsky/concept_x_axis_relations.py
 ```
 
+/docs/figures/Interpretable-Relevance-Predicates.png
+
 ## Folders:
 
 - concepts_kandinsky
@@ -26,6 +28,7 @@ concepts_kandinsky/concept_x_axis_relations.py
                 "true", "false" and "counterfactual" subfolders have images for each case
   - output_data: All data produced by our code. It contains images of the generated graphs
                  and Prolog output
+- docs: Documentation items like figures
 - graph_generators: Functions that deal with the generation of graphs with particular 
                     properties, such as fully-connected
 - plots: Plotting functions
