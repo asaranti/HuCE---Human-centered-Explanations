@@ -43,7 +43,7 @@ python concepts_kandinsky/concept_alignment_relations.py
 
 ## Folders:
 
-Original Kandinsky Patterns github repository: [https://github.com/human-centered-ai-lab/app-kandinsky-pattern-generator](https://github.com/human-centered-ai-lab/app-kandinsky-pattern-generator)
+Kandinsky Patterns github repository: [https://github.com/human-centered-ai-lab/app-kandinsky-pattern-generator](https://github.com/human-centered-ai-lab/app-kandinsky-pattern-generator)
 
 ## Contact:
 
