@@ -41,6 +41,10 @@ python concepts_kandinsky/concept_alignment_relations.py
               generated Prolog file
 - **utils**: Utility functions
 
+## Folders:
+
+Original Kandinsky Patterns github repository: [https://github.com/human-centered-ai-lab/app-kandinsky-pattern-generator](https://github.com/human-centered-ai-lab/app-kandinsky-pattern-generator)
+
 ## Contact:
 
 - Bettina Finzel: [bettina.finzel@uni-bamberg.de](mailto:bettina.finzel@uni-bamberg.de)
